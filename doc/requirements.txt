@@ -8,3 +8,4 @@ sphinxcontrib-jquery
 sphinxcontrib-spelling==8.*
 sphinxemoji
 pyenchant==3.2.*
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
